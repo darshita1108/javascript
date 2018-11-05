@@ -1,0 +1,23 @@
+.form{
+	text-align: center;
+	border:5px solid black;
+	padding:20px;
+	margin:20% 30%; 
+    background-color: white;
+}
+body{
+	background-color: black;
+}
+#heading{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+button{
+	font-size: 15px;
+	color:black;
+	height:40px;
+	background-color: grey;
+}
+	text-align: center;
+}
